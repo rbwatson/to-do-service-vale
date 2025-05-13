@@ -1,0 +1,8 @@
+Try to avoid using clichés.
+Try to avoid using '%s'.
+'%s' is repeated!
+'%s' may be passive voice. Use active voice if you can.
+Don't start a sentence with '%s'.
+Don't start a sentence with '%s'.
+'%s' is too wordy.
+'%s' is a weasel word!
