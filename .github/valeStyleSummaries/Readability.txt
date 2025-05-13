@@ -1,0 +1,7 @@
+Try to keep the Automated Readability Index (%s) below 8.
+Try to keep the Coleman–Liau Index grade (%s) below 9.
+Try to keep the Flesch–Kincaid grade level (%s) below 8.
+Try to keep the Flesch reading ease score (%s) above 70.
+Try to keep the Gunning-Fog index (%s) below 10.
+Try to keep the LIX score (%s) below 35.
+Try to keep the SMOG grade (%s) below 10.

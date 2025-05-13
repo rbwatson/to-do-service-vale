@@ -1,0 +1,24 @@
+Spell out new abbeviations on first use.
+Use 'AM' or 'PM' (preceded by a space).
+Use 'July 31, 2016' date format.
+In general, don't use an ellipsis in text.
+Don't put a space before or after a dash.
+Don't use exclamation points in text.
+Avoid first-person pronouns.
+Use they or them as a gender-neutral pronoun.
+Don't put a period at the end of a heading.
+Headings should use sentence-style capitalization.
+Don't use plurals in parentheses such as in 'object(s)'.
+Spell out all ordinal numbers less than 10 in text.
+Use the Oxford comma in lists.
+Use parentheses judiciously.
+In general, use active voice instead of passive voice.
+Don't use periods with acronyms or initialisms.
+Commas and periods go inside quotation marks.
+Don't add words such as 'from' or 'between' to describe a range of numbers.
+Use semicolons judiciously.
+Don't use internet slang abbreviations.
+Separate sentences with one space.
+In general, use American spelling of words that are spelled differently in other versions of English.
+Put a nonbreaking space between the number and units, such as 12 MPH or 15 mS.
+Try to avoid using first-person plural like 'we'.

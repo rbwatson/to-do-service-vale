@@ -1,0 +1,34 @@
+'%s' is airlinese.
+Consider using '%s' instead of '%s'.
+'%s' left in text.
+Excessive apologizing: '%s'
+'%s' is archaic.
+Do not start a paragraph with a 'but'.
+'%s' is a cliche.
+'%s' is corporate speak.
+Incorrect use of symbols in '%s'.
+Consider replacing '%s'.
+message: With lowercase letters, the periods are standard.
+Use 'midnight' or 'noon'.
+'a.m.' is always morning; 'p.m.' is always night.
+It's standard to put a space before '%s'
+message: Did you mean '%s'?
+message: Consider using '%s' instead of '%s'.
+message: Consider using '%s' instead of '%s'.
+message: Consider using '%s' instead of '%s'.
+'%s' is hedging.
+'%s' is hyperbolic.
+'%s' is jargon.
+'%s' is offensive. Remove it or consider the context.
+Consider using '%s' instead of '%s'.
+'%s' is a malapropism.
+message: Prefer '%s' over '%s'
+Consider using '%s' instead of '%s'.
+'%s' is an oxymoron.
+You should use more decimal places, unless '%s' is really true.
+'%s' is redundant.
+'%s' is a bit of a skunked term — impossible to use without issue.
+Inconsistent spelling of '%s'.
+message: Consider using the '%s' symbol instead of '%s'.
+'%s' is not comparable
+Remove '%s'.
