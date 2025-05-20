@@ -1,24 +1,25 @@
-Spell out new abbeviations on first use.
-Use 'AM' or 'PM' (preceded by a space).
-Use 'July 31, 2016' date format.
-In general, don't use an ellipsis in text.
-Don't put a space before or after a dash.
-Don't use exclamation points in text.
-Avoid first-person pronouns.
-Use they or them as a gender-neutral pronoun.
-Don't put a period at the end of a heading.
-Headings should use sentence-style capitalization.
-Don't use plurals in parentheses such as in 'object(s)'.
-Spell out all ordinal numbers less than 10 in text.
-Use the Oxford comma in lists.
-Use parentheses judiciously.
-In general, use active voice instead of passive voice.
-Don't use periods with acronyms or initialisms.
-Commas and periods go inside quotation marks.
-Don't add words such as 'from' or 'between' to describe a range of numbers.
-Use semicolons judiciously.
-Don't use internet slang abbreviations.
-Separate sentences with one space.
-In general, use American spelling of words that are spelled differently in other versions of English.
-Put a nonbreaking space between the number and units, such as 12 MPH or 15 mS.
-Try to avoid using first-person plural like 'we'.
+Abbreviations: Spell out each abbreviation or acronym on first use, followed by the abbreviation in parentheses. Example: "Application Programming Interface (API)."
+Time format: Use "AM" or "PM" in uppercase with a preceding space. Example: "9:00 AM" not "9:00AM."
+Date format: Always use the format "Month DD, YYYY" (Example: "July 31, 2016").
+Ellipses: Do not use ellipses (...) in technical documentation.
+Dashes: Use em dashes without spaces on either side. Example: "The API—when properly configured—works efficiently."
+Exclamation points: Do not use exclamation points in technical documentation.
+Personal pronouns: Do not use first-person pronouns (I, me, my, we, our, us) in technical documentation. Use second-person "you" when addressing the reader.
+Gender-neutral language: Use "they" or "them" as gender-neutral pronouns.
+Heading punctuation: Do not end headings with periods, question marks, or other punctuation.
+Heading capitalization: Use sentence-style capitalization for all headings (capitalize only the first word and proper nouns). Example: "Creating a new user" not "Creating a New User."
+Parenthetical plurals: Do not use constructions like "parameter(s)" or "option(s)." Instead, use either singular or plural form based on context.
+Ordinal numbers: Spell out ordinal numbers less than 10 in text (first, second, third) rather than using numerals (1st, 2nd, 3rd).
+Oxford comma: Always use a comma before the final "and" or "or" in a list of three or more items.
+Parentheses: Use parentheses sparingly and only when necessary for clarity. Do not nest parentheses.
+Voice: Use active voice rather than passive voice. Example: "The system sends an alert" not "An alert is sent by the system."
+Acronym punctuation: Do not use periods with acronyms or initialisms. Example: "API" not "A.P.I."
+Quotation marks: Place commas and periods inside quotation marks, not outside.
+Number ranges: Express ranges using "to" or a hyphen without adding words like "from" or "between." Example: "Values 1-10 are valid" or "Values 1 to 10 are valid."
+Semicolons: Use semicolons only when necessary to separate complex items in a list or to join closely related independent clauses.
+Internet slang: Do not use internet slang or abbreviations (e.g., FWIW, TBH, IMO).
+Sentence spacing: Use only one space between sentences.
+Spelling: Use American English spelling conventions (e.g., "color" not "colour").
+Units of measurement: Insert a nonbreaking space between numbers and their units. Example: "12 MPH" not "12MPH."
+Consistency: When referring to interface elements or code, maintain consistent capitalization and formatting throughout the documentation.
+Examples: Provide examples for complex concepts, parameters, or response formats.
