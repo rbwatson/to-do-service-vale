@@ -30,6 +30,11 @@ function printHelp() {
     console.error('                  (-m and -c are mutually exclusive)');
 }
 
+// Utility to replace whitespace characters with a space
+function cleanWhitespace(str) {
+    return typeof str === 'string' ? str.replace(/[\r\n\t\f\v]+/g, ' ') : str;
+}
+
 function main() {
     // Check command line arguments
     const args = process.argv.slice(2);
@@ -74,7 +79,6 @@ function main() {
         const validDiagnostics = diagnostics.filter(diagnostic => {
             return diagnostic.startLineNumber !== undefined &&
                    diagnostic.startColumn !== undefined &&
-                   diagnostic.code !== undefined &&
                    diagnostic.message !== undefined;
         });
 
@@ -108,14 +112,16 @@ function main() {
         let outputLines = unique.map(diagnostic => {
             const line = diagnostic.startLineNumber;
             const column = diagnostic.startColumn;
-            const code = extractCode(diagnostic.code);
-            const message = diagnostic.message;
+            const code = diagnostic.code !== undefined ? extractCode(diagnostic.code) : ' ';
+            // Clean whitespace in code and message
+            const cleanCode = cleanWhitespace(code);
+            const message = cleanWhitespace(diagnostic.message);
             if (markdown) {
                 // Markdown table row
-                return `| ${line} | ${column} | \`${code}\` | ${message} |`;
+                return `| ${line} | ${column} | \`${cleanCode}\` | ${message} |`;
             } else {
                 // Plain text
-                return `[${line}, ${column}](${code}) ${message}`;
+                return `[${line}, ${column}](${cleanCode}) ${message}`;
             }
         });
 
