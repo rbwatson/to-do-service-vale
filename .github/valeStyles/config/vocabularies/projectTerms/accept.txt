@@ -1,12 +1,31 @@
+[A|a]sync
+APIs?
+Atlassian
+Cherryleaf
+CMS
 Ctrl
+Docusaurus
+DRY
+findability
 Git
 GitHub
 GitHub Desktop
+Gruenbaum
+JPDocu
+KPIs
 Markdown
+Redoc
 [R|r]ebased?
 [R|r]ebasing
 [R|r]epos?
+RTL
+SLAs?
+Sourcetree
 To-Do Service
 trackpad
+Twilio
+Udemy
 VS Code
 Windows
+Wizeline
+chatbots?
